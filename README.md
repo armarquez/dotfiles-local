@@ -1,2 +1,2 @@
 # dotfiles-local
-Dotfile overrides using Thoughbots dotfiles
+Dotfile overrides for using [Thoughbots dotfiles](https://github.com/thoughtbot/dotfiles).
